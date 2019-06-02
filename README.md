@@ -1,24 +1,24 @@
-# Zenifyvim #
+# zenifyvim
 
-- author/site : Jimmy MG Lim (mirageglobe@gmail.com) / www.mirageglobe.com
+- maintainer : Jimmy MG Lim (mirageglobe@gmail.com) / www.mirageglobe.com
 - source : https://github.com/mirageglobe/zenifyvim
 
-This project has been shifted to be simply named *zenifyvim*. Its a vim theme file of earlier work.
+This project has been shifted to be simply named *zenify.vim*. zenifyvim, it speaks for itself.
 
-# To use #
+# to use
 
-to use,
+to use, add the following via Plug
 ```
-  $ source vim.rc
+Plug "mirageglobe/zenifyvim"
 ```
 
-# Guidelines #
+# guidelines
 
 a few points to note before submitting PR :
 
 - ensure this is tested on debian
 
-# License
+# license
 
 Copyright 2012 Jimmy MG Lim (mirageglobe@gmail.com)
 
